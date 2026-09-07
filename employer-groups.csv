@@ -1,0 +1,8 @@
+Group_ID,Group_Name,Sponsor_Number,Location_Number,Funding_Type,COBRA_Admin_Flag,Bank_Routing_Number,Bank_Name,Lines_Of_Business
+101,Maple Valley School District,33,0001,Fully-Insured,UPT-Admin,031000053,Trust National Bank,"Dental,Vision,Prescription"
+102,Pine Creek Township,33,0002,Fully-Insured,UPT-Admin,031000503,Keystone Federal,"Dental,Vision"
+103,Oakridge Transit Authority,35,0001,Fully-Insured,Group-Admin,031201509,Fidelity Union Bank,"Dental,Vision,Prescription"
+104,River Valley School District,103,0001,Fully-Insured,UPT-Admin,031100121,Pinnacle Bank,Vision
+105,Blue Ridge Transit Consortium,50,0001,Self-Funded,Group-Admin,031302804,Summit Bank,"Dental,Vision"
+106,Summit Municipal Water,60,0001,Self-Billed,Group-Admin,031000011,Metro Commerce Bank,Dental
+107,Valley View Public Library,33,0003,Fully-Insured,UPT-Admin,031200155,Citizens Trust,"Dental,Vision"

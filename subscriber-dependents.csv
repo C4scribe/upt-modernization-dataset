@@ -1,0 +1,337 @@
+Dependent_ID,Subscriber_ID,Relationship,Last_Name,First_Name,Date_of_Birth,Student_Cert_Expiry,Is_Eligible
+50001,10002,Spouse,Garcia,Elizabeth,1976-09-02,,Y
+50002,10002,Child,Garcia,Michael,2010-02-02,,Y
+50003,10003,Spouse,Rodriguez,Sarah,1991-11-13,,Y
+50004,10003,Child,Rodriguez,James,2016-07-09,,Y
+50005,10003,Child,Rodriguez,Patricia,2019-12-10,,Y
+50006,10004,Child,Moore,Jennifer,2012-06-19,,Y
+50007,10004,Child,Moore,Thomas,2010-01-18,,Y
+50008,10004,Child,Moore,Mary,2018-01-22,,Y
+50009,10005,FT Student,Jones,Susan,2002-03-24,2027-06-30,Y
+50010,10005,FT Student,Jones,Jennifer,2003-12-04,2027-06-30,Y
+50011,10005,Child,Jones,Michael,2012-01-17,,Y
+50012,10006,Child,Davis,Jessica,2009-12-13,,Y
+50013,10006,Child,Davis,William,2011-11-17,,Y
+50014,10010,Spouse,Davis,Patricia,1981-10-28,,Y
+50015,10010,Child,Davis,Thomas,2021-11-14,,Y
+50016,10010,Child,Davis,Elizabeth,2024-04-19,,Y
+50017,10010,Child,Davis,James,2024-02-14,,Y
+50018,10012,Spouse,Martinez,Susan,1989-04-02,,Y
+50019,10012,Child,Martinez,Thomas,2013-11-19,,Y
+50020,10013,Spouse,Anderson,Sarah,1968-07-07,,Y
+50021,10013,Child,Anderson,William,2009-05-21,,Y
+50022,10013,Child,Anderson,Robert,2023-04-27,,Y
+50023,10013,Child,Anderson,Thomas,2020-11-10,,Y
+50024,10014,Same-Sex Spouse,Hernandez,Jessica,1975-02-14,,Y
+50025,10018,Child,Moore,Karen,2016-04-30,,Y
+50026,10018,FT Student,Moore,Linda,2002-06-05,2027-06-30,Y
+50027,10019,Spouse,Martinez,John,1991-03-01,,Y
+50028,10019,Child,Martinez,Elizabeth,2011-02-18,,Y
+50029,10019,Child,Martinez,Sarah,2020-12-02,,Y
+50030,10019,Child,Martinez,Richard,2015-06-28,,Y
+50031,10020,Spouse,Smith,Joseph,1977-11-19,,Y
+50032,10020,Child,Smith,Richard,2025-03-13,,Y
+50033,10020,FT Student,Smith,Michael,2005-11-28,2027-06-30,Y
+50034,10021,Spouse,Anderson,Michael,1964-05-07,,Y
+50035,10021,Child,Anderson,Thomas,2024-11-13,,Y
+50036,10022,Spouse,White,Jessica,1982-10-02,,Y
+50037,10022,Child,White,Charles,2013-03-03,,Y
+50038,10022,Child,White,Linda,2022-05-18,,Y
+50039,10022,Child,White,Jennifer,2012-01-15,,Y
+50040,10023,Child,Garcia,Jennifer,2019-07-02,,Y
+50041,10023,Child,Garcia,Robert,2020-01-21,,Y
+50042,10023,Child,Garcia,Joseph,2021-11-24,,Y
+50043,10024,Spouse,Thomas,Charles,1962-02-23,,Y
+50044,10026,Spouse,Jones,William,1991-12-06,,Y
+50045,10026,Child,Jones,Michael,2012-02-10,,Y
+50046,10026,Child,Jones,Mary,2024-02-03,,Y
+50047,10028,Spouse,Wilson,Linda,1975-01-01,,Y
+50048,10028,Child,Wilson,Richard,2018-01-05,,Y
+50049,10028,FT Student,Wilson,Thomas,2001-04-21,2027-06-30,Y
+50050,10028,Child,Wilson,Barbara,2013-02-07,,Y
+50051,10029,Child,Brown,Jennifer,2014-07-06,,Y
+50052,10029,Child,Brown,David,2024-03-16,,Y
+50053,10029,Child,Brown,John,2013-06-21,,Y
+50054,10031,Spouse,Johnson,Elizabeth,1967-11-07,,Y
+50055,10031,FT Student,Johnson,Elizabeth,2002-08-01,2027-06-30,Y
+50056,10032,Spouse,Hernandez,Elizabeth,1965-08-19,,Y
+50057,10034,Spouse,Jackson,John,1999-04-21,,Y
+50058,10035,Spouse,Jackson,Mary,1968-06-15,,Y
+50059,10035,Child,Jackson,John,2022-04-16,,Y
+50060,10035,Child,Jackson,Richard,2000-08-05,,N
+50061,10035,FT Student,Jackson,James,2006-04-12,2027-06-30,Y
+50062,10037,Child,Hernandez,Patricia,2009-01-20,,Y
+50063,10037,FT Student,Hernandez,Sarah,2003-04-27,2027-06-30,Y
+50064,10037,Child,Hernandez,Linda,2023-12-07,,Y
+50065,10038,Child,Jones,Charles,2018-01-10,,Y
+50066,10038,Child,Jones,Jessica,2019-12-10,,Y
+50067,10039,Spouse,Thomas,Jennifer,1962-07-29,,Y
+50068,10039,Child,Thomas,Linda,2019-08-10,,Y
+50069,10040,FT Student,Miller,Patricia,2001-07-26,2026-06-30,N
+50070,10040,Child,Miller,David,2021-03-14,,Y
+50071,10041,Spouse,Thompson,David,1992-10-19,,Y
+50072,10042,Spouse,Garcia,James,1967-07-22,,Y
+50073,10042,Child,Garcia,Mary,2016-08-05,,Y
+50074,10043,Spouse,White,Sarah,1982-03-30,,Y
+50075,10043,Child,White,Charles,2021-05-14,,Y
+50076,10043,Child,White,Linda,2018-08-20,,Y
+50077,10043,Child,White,Barbara,2025-04-07,,Y
+50078,10044,Spouse,Johnson,Michael,1988-10-23,,Y
+50079,10044,Child,Johnson,Elizabeth,2009-04-22,,Y
+50080,10044,Child,Johnson,Joseph,2010-03-13,,Y
+50081,10045,Spouse,Martin,Linda,1973-11-10,,Y
+50082,10047,Spouse,Thompson,John,1980-12-08,,Y
+50083,10047,Child,Thompson,John,2008-08-15,,Y
+50084,10047,FT Student,Thompson,William,2001-04-05,2027-06-30,Y
+50085,10048,Spouse,Johnson,Barbara,1971-05-22,,Y
+50086,10049,Child,Martinez,Linda,2017-07-04,,Y
+50087,10049,Child,Martinez,David,2021-04-08,,Y
+50088,10050,FT Student,Rodriguez,Richard,2004-12-20,2027-06-30,Y
+50089,10050,FT Student,Rodriguez,Susan,2006-09-07,2026-06-30,N
+50090,10051,Spouse,Taylor,Charles,1973-03-20,,Y
+50091,10052,Child,Wilson,Linda,2009-04-06,,Y
+50092,10052,FT Student,Wilson,Jennifer,2003-02-20,2027-06-30,Y
+50093,10052,FT Student,Wilson,Sarah,2001-05-17,2026-06-30,N
+50094,10053,Spouse,Thompson,Thomas,1980-06-27,,Y
+50095,10054,Spouse,Thompson,Joseph,1962-07-14,,Y
+50096,10055,FT Student,Anderson,Elizabeth,2003-02-27,2027-06-30,Y
+50097,10055,Child,Anderson,Sarah,2013-01-31,,Y
+50098,10055,FT Student,Anderson,James,2003-01-03,2027-06-30,Y
+50099,10056,Spouse,White,Sarah,1992-03-06,,Y
+50100,10058,Spouse,Jackson,Susan,1994-07-01,,Y
+50101,10059,Spouse,Taylor,Charles,1969-05-22,,Y
+50102,10059,Child,Taylor,Barbara,2018-03-12,,Y
+50103,10060,FT Student,Martin,Charles,2005-03-15,2027-06-30,Y
+50104,10060,Child,Martin,John,2022-11-13,,Y
+50105,10060,FT Student,Martin,Elizabeth,2001-02-02,2027-06-30,Y
+50106,10062,Child,Garcia,Jessica,2014-12-19,,Y
+50107,10062,Child,Garcia,Mary,2011-02-04,,Y
+50108,10063,Spouse,Rodriguez,Robert,1977-01-19,,Y
+50109,10063,Child,Rodriguez,Jennifer,2012-11-19,,Y
+50110,10064,Spouse,Wilson,Patricia,1975-09-29,,Y
+50111,10064,Child,Wilson,Robert,2019-04-05,,Y
+50112,10065,Child,Williams,Sarah,2019-07-05,,Y
+50113,10065,Child,Williams,Susan,2015-03-14,,Y
+50114,10065,Child,Williams,Elizabeth,2016-12-15,,Y
+50115,10066,Spouse,Rodriguez,Sarah,1992-05-27,,Y
+50116,10066,Child,Rodriguez,William,2012-12-13,,Y
+50117,10066,Child,Rodriguez,Sarah,2020-08-10,,Y
+50118,10066,Child,Rodriguez,William,2015-06-09,,Y
+50119,10067,Spouse,Rodriguez,Mary,1972-10-20,,Y
+50120,10068,Spouse,Brown,Jennifer,1987-01-21,,Y
+50121,10068,Child,Brown,Mary,2009-06-06,,Y
+50122,10068,Child,Brown,Michael,2018-02-13,,Y
+50123,10069,FT Student,Jones,James,2006-12-20,2027-06-30,Y
+50124,10069,Child,Jones,John,2013-02-13,,Y
+50125,10070,Spouse,Davis,Thomas,1961-03-12,,Y
+50126,10070,Child,Davis,Thomas,2016-09-02,,Y
+50127,10071,Spouse,Johnson,Barbara,1974-06-17,,Y
+50128,10071,Child,Johnson,Sarah,2012-03-26,,Y
+50129,10071,FT Student,Johnson,David,2004-08-03,2026-06-30,N
+50130,10071,Child,Johnson,James,2016-07-08,,Y
+50131,10073,Child,Thomas,Richard,2010-01-28,,Y
+50132,10075,Spouse,Jones,Elizabeth,1960-01-22,,Y
+50133,10075,Child,Jones,Linda,2000-05-28,,N
+50134,10077,Spouse,Martin,Michael,1981-05-05,,Y
+50135,10077,FT Student,Martin,Linda,2003-07-11,2027-06-30,Y
+50136,10077,Child,Martin,Thomas,2018-01-06,,Y
+50137,10079,Spouse,Martin,Barbara,1995-09-15,,Y
+50138,10079,Child,Martin,Thomas,2016-12-06,,Y
+50139,10080,Child,Rodriguez,Sarah,2017-03-08,,Y
+50140,10080,Child,Rodriguez,Joseph,2020-08-17,,Y
+50141,10081,Child,Rodriguez,Karen,2024-11-24,,Y
+50142,10081,Child,Rodriguez,Elizabeth,2021-07-27,,Y
+50143,10081,Child,Rodriguez,William,2013-07-04,,Y
+50144,10082,FT Student,Williams,Karen,2005-05-28,2027-06-30,Y
+50145,10082,Child,Williams,Charles,2022-06-23,,Y
+50146,10082,Child,Williams,Karen,2000-07-15,,N
+50147,10083,Spouse,Miller,Michael,1992-05-02,,Y
+50148,10084,Child,Martin,Richard,2022-03-04,,Y
+50149,10084,Child,Martin,Charles,2025-04-10,,Y
+50150,10085,Spouse,Miller,Jessica,1976-05-13,,Y
+50151,10086,Spouse,Miller,William,1971-04-30,,Y
+50152,10086,Child,Miller,William,2022-05-21,,Y
+50153,10087,Spouse,Martinez,Mary,1976-01-08,,Y
+50154,10087,Child,Martinez,Richard,2011-11-27,,Y
+50155,10088,Spouse,Hernandez,Mary,1965-11-26,,Y
+50156,10088,FT Student,Hernandez,Susan,2005-07-29,2027-06-30,Y
+50157,10088,Child,Hernandez,Patricia,2013-06-28,,Y
+50158,10088,Child,Hernandez,Sarah,2013-02-24,,Y
+50159,10089,FT Student,Smith,Richard,2001-09-06,2027-06-30,Y
+50160,10089,Child,Smith,David,2013-12-26,,Y
+50161,10089,Child,Smith,Barbara,2024-04-21,,Y
+50162,10091,Child,Thompson,Mary,2022-01-06,,Y
+50163,10091,Child,Thompson,Patricia,2018-11-15,,Y
+50164,10091,Child,Thompson,Barbara,2014-02-11,,Y
+50165,10092,Spouse,Wilson,Jennifer,1963-10-10,,Y
+50166,10093,Spouse,White,Barbara,1961-06-18,,Y
+50167,10094,Spouse,Martin,John,1966-05-18,,Y
+50168,10094,Child,Martin,Robert,2008-01-03,,Y
+50169,10094,FT Student,Martin,Michael,2005-05-15,2027-06-30,Y
+50170,10094,FT Student,Martin,Joseph,2001-03-05,2027-06-30,Y
+50171,10095,Spouse,Johnson,Joseph,1977-03-23,,Y
+50172,10095,FT Student,Johnson,Richard,2003-11-15,2027-06-30,Y
+50173,10096,Spouse,White,John,1968-09-02,,Y
+50174,10097,Spouse,Davis,James,1977-12-30,,Y
+50175,10097,Child,Davis,Patricia,2013-12-28,,Y
+50176,10097,Child,Davis,Jessica,2011-08-21,,Y
+50177,10097,Child,Davis,Thomas,2019-11-19,,Y
+50178,10098,Spouse,Jones,Michael,1967-11-25,,Y
+50179,10098,Child,Jones,James,2021-12-17,,Y
+50180,10098,Child,Jones,John,2008-05-07,,Y
+50181,10099,Child,Davis,Robert,2025-04-09,,Y
+50182,10099,Child,Davis,Mary,2019-03-24,,Y
+50183,10099,Child,Davis,Richard,2024-05-14,,Y
+50184,10100,Spouse,Martinez,Barbara,1962-09-10,,Y
+50185,10102,Spouse,Williams,Thomas,1987-08-26,,Y
+50186,10103,Spouse,Hernandez,Sarah,1977-01-25,,Y
+50187,10104,Spouse,White,Michael,1981-03-03,,Y
+50188,10104,Child,White,Mary,2021-06-30,,Y
+50189,10105,Child,Thompson,Elizabeth,2015-11-17,,Y
+50190,10105,Child,Thompson,Richard,2024-06-28,,Y
+50191,10105,Child,Thompson,Elizabeth,2012-03-10,,Y
+50192,10106,Spouse,Garcia,Elizabeth,1984-10-31,,Y
+50193,10106,FT Student,Garcia,Joseph,2006-11-23,2027-06-30,Y
+50194,10106,Child,Garcia,Patricia,2020-12-19,,Y
+50195,10106,Child,Garcia,Charles,2011-07-03,,Y
+50196,10107,Child,Davis,David,2025-04-26,,Y
+50197,10108,Child,Moore,Susan,2022-05-17,,Y
+50198,10109,FT Student,Davis,Sarah,2001-04-12,2026-06-30,N
+50199,10109,FT Student,Davis,Susan,2003-07-21,2027-06-30,Y
+50200,10111,Spouse,Williams,Susan,1998-09-28,,Y
+50201,10111,Child,Williams,Sarah,2017-07-22,,Y
+50202,10111,Child,Williams,Thomas,2016-08-06,,Y
+50203,10112,Spouse,White,Jennifer,1977-01-09,,Y
+50204,10112,Child,White,Elizabeth,2022-07-07,,Y
+50205,10113,Spouse,Martin,James,1985-07-03,,Y
+50206,10113,FT Student,Martin,Robert,2001-03-25,2027-06-30,Y
+50207,10113,FT Student,Martin,James,2007-07-04,2027-06-30,Y
+50208,10113,Child,Martin,Robert,2025-04-14,,Y
+50209,10114,Child,Miller,Linda,2012-01-27,,Y
+50210,10115,Spouse,Thomas,Linda,1995-05-11,,Y
+50211,10115,Child,Thomas,James,2017-06-20,,Y
+50212,10115,Child,Thomas,Robert,2025-02-06,,Y
+50213,10116,Spouse,Davis,Mary,1982-09-25,,Y
+50214,10116,FT Student,Davis,Jessica,2004-12-25,2027-06-30,Y
+50215,10116,Child,Davis,William,2010-08-13,,Y
+50216,10116,FT Student,Davis,Elizabeth,2002-05-28,2026-06-30,N
+50217,10118,Spouse,White,John,1982-10-16,,Y
+50218,10118,Child,White,Thomas,2012-08-09,,Y
+50219,10118,Child,White,Charles,2017-02-13,,Y
+50220,10119,Spouse,Martin,William,1977-11-28,,Y
+50221,10119,Child,Martin,Patricia,2023-03-22,,Y
+50222,10120,Child,Moore,Susan,2014-05-11,,Y
+50223,10120,Child,Moore,Jennifer,2012-08-05,,Y
+50224,10120,Child,Moore,Sarah,2019-03-16,,Y
+50225,10121,Spouse,Johnson,William,1985-04-08,,Y
+50226,10121,FT Student,Johnson,Mary,2006-12-27,2027-06-30,Y
+50227,10121,FT Student,Johnson,James,2003-03-03,2027-06-30,Y
+50228,10121,Child,Johnson,Mary,2018-08-23,,Y
+50229,10122,Child,White,Barbara,2022-03-16,,Y
+50230,10123,Spouse,Martinez,John,1994-09-11,,Y
+50231,10123,Child,Martinez,John,2009-12-09,,Y
+50232,10124,Spouse,Martin,Richard,1984-02-24,,Y
+50233,10124,Child,Martin,Joseph,2000-08-29,,N
+50234,10124,Child,Martin,David,2018-06-09,,Y
+50235,10124,Child,Martin,Richard,2009-01-06,,Y
+50236,10125,Spouse,Martin,Barbara,1982-05-30,,Y
+50237,10126,Child,Wilson,Karen,2015-05-08,,Y
+50238,10127,Spouse,Martinez,John,1979-03-17,,Y
+50239,10127,Child,Martinez,Joseph,2009-08-18,,Y
+50240,10128,Spouse,Hernandez,Thomas,1966-03-23,,Y
+50241,10128,FT Student,Hernandez,Sarah,2006-12-30,2027-06-30,Y
+50242,10129,Spouse,Hernandez,James,1964-04-09,,Y
+50243,10129,FT Student,Hernandez,Susan,2004-03-16,2027-06-30,Y
+50244,10131,Spouse,Hernandez,Barbara,1969-08-04,,Y
+50245,10131,Child,Hernandez,Susan,2017-06-14,,Y
+50246,10133,FT Student,Williams,Joseph,2007-03-25,2027-06-30,Y
+50247,10133,Child,Williams,Linda,2011-03-20,,Y
+50248,10134,Spouse,Wilson,Mary,1976-07-15,,Y
+50249,10134,Child,Wilson,Jennifer,2013-06-19,,Y
+50250,10134,FT Student,Wilson,Jennifer,2002-08-31,2027-06-30,Y
+50251,10135,Child,Williams,Barbara,2008-06-25,,Y
+50252,10137,Child,Taylor,Jessica,2011-05-29,,Y
+50253,10138,Spouse,Miller,Joseph,1976-05-23,,Y
+50254,10138,Child,Miller,Sarah,2021-06-24,,Y
+50255,10139,Spouse,Anderson,Joseph,1988-04-21,,Y
+50256,10139,Child,Anderson,Sarah,2009-07-08,,Y
+50257,10139,Child,Anderson,Sarah,2012-02-16,,Y
+50258,10139,Child,Anderson,Elizabeth,2024-03-19,,Y
+50259,10140,Child,Hernandez,Elizabeth,2017-01-09,,Y
+50260,10140,Child,Hernandez,Joseph,2025-01-25,,Y
+50261,10140,Child,Hernandez,Thomas,2016-08-04,,Y
+50262,10141,Spouse,Moore,Elizabeth,1993-07-19,,Y
+50263,10141,Child,Moore,Sarah,2025-08-08,,Y
+50264,10141,Child,Moore,Jessica,2018-01-03,,Y
+50265,10142,Spouse,Davis,David,1986-12-12,,Y
+50266,10142,Child,Davis,Robert,2019-12-16,,Y
+50267,10143,Child,Miller,Thomas,2013-04-22,,Y
+50268,10144,Spouse,Jackson,Jessica,1979-09-18,,Y
+50269,10144,Child,Jackson,Patricia,2020-08-26,,Y
+50270,10144,Child,Jackson,Robert,2014-04-10,,Y
+50271,10145,Child,Martinez,Charles,2023-07-05,,Y
+50272,10145,Child,Martinez,Mary,2010-01-16,,Y
+50273,10147,Spouse,Thomas,Richard,1993-08-10,,Y
+50274,10147,Child,Thomas,Linda,2017-02-20,,Y
+50275,10147,Child,Thomas,Robert,2019-09-04,,Y
+50276,10147,FT Student,Thomas,Patricia,2007-03-01,2027-06-30,Y
+50277,10148,Spouse,Williams,Mary,1987-11-07,,Y
+50278,10149,Spouse,Wilson,Thomas,1978-01-25,,Y
+50279,10149,Child,Wilson,William,2014-03-05,,Y
+50280,10149,FT Student,Wilson,James,2003-12-07,2027-06-30,Y
+50281,10149,FT Student,Wilson,William,2004-12-30,2027-06-30,Y
+50282,10152,Spouse,Williams,John,1989-07-22,,Y
+50283,10153,Spouse,Wilson,Susan,1987-12-31,,Y
+50284,10154,Spouse,White,Richard,1970-07-28,,Y
+50285,10154,FT Student,White,David,2006-02-10,2027-06-30,Y
+50286,10155,Child,Miller,Joseph,2016-08-28,,Y
+50287,10155,FT Student,Miller,Elizabeth,2006-05-30,2027-06-30,Y
+50288,10156,Spouse,Moore,Karen,1965-12-21,,Y
+50289,10156,Child,Moore,Thomas,2016-06-18,,Y
+50290,10158,Spouse,White,Mary,1985-05-18,,Y
+50291,10158,Child,White,Jessica,2023-04-23,,Y
+50292,10158,FT Student,White,Jessica,2005-12-01,2027-06-30,Y
+50293,10159,Child,Smith,James,2000-03-10,,N
+50294,10160,Same-Sex Spouse,Davis,Sarah,1979-11-20,,Y
+50295,10161,Spouse,Jackson,Richard,1974-10-24,,Y
+50296,10161,Child,Jackson,Charles,2020-03-26,,Y
+50297,10161,Child,Jackson,William,2024-12-03,,Y
+50298,10163,Spouse,Taylor,Patricia,1995-04-30,,Y
+50299,10163,Child,Taylor,Elizabeth,2020-08-07,,Y
+50300,10163,Child,Taylor,Jessica,2019-06-04,,Y
+50301,10164,Spouse,Martinez,Thomas,1991-11-03,,Y
+50302,10165,Spouse,Smith,Barbara,1965-06-12,,Y
+50303,10166,Child,Moore,Barbara,2013-05-25,,Y
+50304,10167,Child,Jones,Richard,2010-11-19,,Y
+50305,10167,FT Student,Jones,John,2006-11-30,2027-06-30,Y
+50306,10168,Spouse,Anderson,Richard,1985-07-17,,Y
+50307,10168,Child,Anderson,Jessica,2014-12-30,,Y
+50308,10168,Child,Anderson,Thomas,2025-08-19,,Y
+50309,10168,Child,Anderson,Jessica,2010-12-03,,Y
+50310,10170,Spouse,Rodriguez,Michael,1981-08-29,,Y
+50311,10171,Spouse,Garcia,Michael,1987-07-04,,Y
+50312,10171,Child,Garcia,Sarah,2021-08-24,,Y
+50313,10171,Child,Garcia,Michael,2018-01-25,,Y
+50314,10172,Spouse,Brown,Robert,1974-05-27,,Y
+50315,10172,Child,Brown,John,2010-11-25,,Y
+50316,10172,Child,Brown,Mary,2019-06-21,,Y
+50317,10174,Spouse,Thomas,Joseph,1992-08-31,,Y
+50318,10174,Child,Thomas,Karen,2018-01-11,,Y
+50319,10175,Spouse,Martin,William,1994-01-15,,Y
+50320,10175,Child,Martin,David,2019-12-22,,Y
+50321,10175,Child,Martin,Sarah,2018-11-25,,Y
+50322,10176,Child,Jones,Jessica,2020-12-21,,Y
+50323,10176,Child,Jones,David,2019-12-16,,Y
+50324,10176,Child,Jones,William,2022-03-09,,Y
+50325,10177,Spouse,White,Charles,1990-03-13,,Y
+50326,10177,Child,White,Linda,2016-12-21,,Y
+50327,10179,Spouse,Smith,Michael,1966-02-25,,Y
+50328,10179,FT Student,Smith,Barbara,2003-08-18,2027-06-30,Y
+50329,10179,Child,Smith,William,2014-04-01,,Y
+50330,10179,FT Student,Smith,Charles,2005-05-06,2027-06-30,Y
+50331,10180,Spouse,Jackson,Elizabeth,1967-11-18,,Y
+50332,10180,FT Student,Jackson,Patricia,2004-12-26,2027-06-30,Y
+50333,10180,FT Student,Jackson,Richard,2005-12-03,2027-06-30,Y
+50334,10180,Child,Jackson,David,2023-11-17,,Y
+50335,10182,Child,Johnson,John,2019-08-01,,Y
+50336,10182,FT Student,Johnson,John,2005-11-29,2027-06-30,Y

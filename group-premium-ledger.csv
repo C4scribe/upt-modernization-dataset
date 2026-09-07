@@ -1,0 +1,169 @@
+Ledger_ID,Group_ID,Group_Name,Billing_Period,Line_of_Business,Calculated_Premium,Premium_Paid,Deposit_Date,Balance_Due,Reconciliation_Status
+200001,101,Maple Valley School District,2025-10,Dental,3060.0,3060.0,2025-10-15,0.0,Fully Paid
+200002,101,Maple Valley School District,2025-10,Vision,1020.0,1020.0,2025-10-15,0.0,Fully Paid
+200003,101,Maple Valley School District,2025-10,Prescription,10200.0,10200.0,2025-10-15,0.0,Fully Paid
+200004,102,Pine Creek Township,2025-10,Dental,2190.0,2190.0,2025-10-15,0.0,Fully Paid
+200005,102,Pine Creek Township,2025-10,Vision,730.0,730.0,2025-10-15,0.0,Fully Paid
+200006,103,Oakridge Transit Authority,2025-10,Dental,3075.0,3075.0,2025-10-15,0.0,Fully Paid
+200007,103,Oakridge Transit Authority,2025-10,Vision,1025.0,1025.0,2025-10-15,0.0,Fully Paid
+200008,103,Oakridge Transit Authority,2025-10,Prescription,10250.0,10250.0,2025-10-15,0.0,Fully Paid
+200009,104,River Valley School District,2025-10,Vision,925.0,925.0,2025-10-15,0.0,Fully Paid
+200010,105,Blue Ridge Transit Consortium,2025-10,Dental,5309.81,5309.81,2025-10-15,0.0,Fully Paid
+200011,105,Blue Ridge Transit Consortium,2025-10,Vision,5167.69,5167.69,2025-10-15,0.0,Fully Paid
+200012,106,Summit Municipal Water,2025-10,Dental,1800.0,1800.0,2025-10-15,0.0,Fully Paid
+200013,107,Valley View Public Library,2025-10,Dental,975.0,975.0,2025-10-15,0.0,Fully Paid
+200014,107,Valley View Public Library,2025-10,Vision,325.0,325.0,2025-10-15,0.0,Fully Paid
+200015,101,Maple Valley School District,2025-11,Dental,3060.0,3060.0,2025-11-15,0.0,Fully Paid
+200016,101,Maple Valley School District,2025-11,Vision,1020.0,1020.0,2025-11-15,0.0,Fully Paid
+200017,101,Maple Valley School District,2025-11,Prescription,10200.0,10200.0,2025-11-15,0.0,Fully Paid
+200018,102,Pine Creek Township,2025-11,Dental,2190.0,2190.0,2025-11-15,0.0,Fully Paid
+200019,102,Pine Creek Township,2025-11,Vision,730.0,730.0,2025-11-15,0.0,Fully Paid
+200020,103,Oakridge Transit Authority,2025-11,Dental,3075.0,3075.0,2025-11-15,0.0,Fully Paid
+200021,103,Oakridge Transit Authority,2025-11,Vision,1025.0,1025.0,2025-11-15,0.0,Fully Paid
+200022,103,Oakridge Transit Authority,2025-11,Prescription,10250.0,10250.0,2025-11-15,0.0,Fully Paid
+200023,104,River Valley School District,2025-11,Vision,925.0,925.0,2025-11-15,0.0,Fully Paid
+200024,105,Blue Ridge Transit Consortium,2025-11,Dental,6174.6,6174.6,2025-11-15,0.0,Fully Paid
+200025,105,Blue Ridge Transit Consortium,2025-11,Vision,3123.9,3123.9,2025-11-15,0.0,Fully Paid
+200026,106,Summit Municipal Water,2025-11,Dental,1800.0,1800.0,2025-11-15,0.0,Fully Paid
+200027,107,Valley View Public Library,2025-11,Dental,975.0,975.0,2025-11-15,0.0,Fully Paid
+200028,107,Valley View Public Library,2025-11,Vision,325.0,325.0,2025-11-15,0.0,Fully Paid
+200029,101,Maple Valley School District,2025-12,Dental,3060.0,3060.0,2025-12-15,0.0,Fully Paid
+200030,101,Maple Valley School District,2025-12,Vision,1020.0,1020.0,2025-12-15,0.0,Fully Paid
+200031,101,Maple Valley School District,2025-12,Prescription,10200.0,10200.0,2025-12-15,0.0,Fully Paid
+200032,102,Pine Creek Township,2025-12,Dental,2190.0,2190.0,2025-12-15,0.0,Fully Paid
+200033,102,Pine Creek Township,2025-12,Vision,730.0,730.0,2025-12-15,0.0,Fully Paid
+200034,103,Oakridge Transit Authority,2025-12,Dental,3075.0,3075.0,2025-12-15,0.0,Fully Paid
+200035,103,Oakridge Transit Authority,2025-12,Vision,1025.0,1025.0,2025-12-15,0.0,Fully Paid
+200036,103,Oakridge Transit Authority,2025-12,Prescription,10250.0,10250.0,2025-12-15,0.0,Fully Paid
+200037,104,River Valley School District,2025-12,Vision,925.0,925.0,2025-12-15,0.0,Fully Paid
+200038,105,Blue Ridge Transit Consortium,2025-12,Dental,5487.87,5487.87,2025-12-15,0.0,Fully Paid
+200039,105,Blue Ridge Transit Consortium,2025-12,Vision,5540.18,5540.18,2025-12-15,0.0,Fully Paid
+200040,106,Summit Municipal Water,2025-12,Dental,1800.0,1800.0,2025-12-15,0.0,Fully Paid
+200041,107,Valley View Public Library,2025-12,Dental,975.0,975.0,2025-12-15,0.0,Fully Paid
+200042,107,Valley View Public Library,2025-12,Vision,325.0,325.0,2025-12-15,0.0,Fully Paid
+200043,101,Maple Valley School District,2026-01,Dental,3060.0,3060.0,2026-01-15,0.0,Fully Paid
+200044,101,Maple Valley School District,2026-01,Vision,1020.0,1020.0,2026-01-15,0.0,Fully Paid
+200045,101,Maple Valley School District,2026-01,Prescription,10200.0,10200.0,2026-01-15,0.0,Fully Paid
+200046,102,Pine Creek Township,2026-01,Dental,2190.0,2190.0,2026-01-15,0.0,Fully Paid
+200047,102,Pine Creek Township,2026-01,Vision,730.0,730.0,2026-01-15,0.0,Fully Paid
+200048,103,Oakridge Transit Authority,2026-01,Dental,3075.0,3075.0,2026-01-15,0.0,Fully Paid
+200049,103,Oakridge Transit Authority,2026-01,Vision,1025.0,1025.0,2026-01-15,0.0,Fully Paid
+200050,103,Oakridge Transit Authority,2026-01,Prescription,10250.0,10250.0,2026-01-15,0.0,Fully Paid
+200051,104,River Valley School District,2026-01,Vision,925.0,925.0,2026-01-15,0.0,Fully Paid
+200052,105,Blue Ridge Transit Consortium,2026-01,Dental,5690.04,5690.04,2026-01-15,0.0,Fully Paid
+200053,105,Blue Ridge Transit Consortium,2026-01,Vision,8364.72,8364.72,2026-01-15,0.0,Fully Paid
+200054,106,Summit Municipal Water,2026-01,Dental,1800.0,1800.0,2026-01-15,0.0,Fully Paid
+200055,107,Valley View Public Library,2026-01,Dental,975.0,975.0,2026-01-15,0.0,Fully Paid
+200056,107,Valley View Public Library,2026-01,Vision,325.0,325.0,2026-01-15,0.0,Fully Paid
+200057,101,Maple Valley School District,2026-02,Dental,3060.0,3060.0,2026-02-15,0.0,Fully Paid
+200058,101,Maple Valley School District,2026-02,Vision,1020.0,1020.0,2026-02-15,0.0,Fully Paid
+200059,101,Maple Valley School District,2026-02,Prescription,10200.0,10200.0,2026-02-15,0.0,Fully Paid
+200060,102,Pine Creek Township,2026-02,Dental,2190.0,2190.0,2026-02-15,0.0,Fully Paid
+200061,102,Pine Creek Township,2026-02,Vision,730.0,730.0,2026-02-15,0.0,Fully Paid
+200062,103,Oakridge Transit Authority,2026-02,Dental,3075.0,3075.0,2026-02-15,0.0,Fully Paid
+200063,103,Oakridge Transit Authority,2026-02,Vision,1025.0,1025.0,2026-02-15,0.0,Fully Paid
+200064,103,Oakridge Transit Authority,2026-02,Prescription,10250.0,10250.0,2026-02-15,0.0,Fully Paid
+200065,104,River Valley School District,2026-02,Vision,925.0,925.0,2026-02-15,0.0,Fully Paid
+200066,105,Blue Ridge Transit Consortium,2026-02,Dental,3330.21,3330.21,2026-02-15,0.0,Fully Paid
+200067,105,Blue Ridge Transit Consortium,2026-02,Vision,5133.57,5133.57,2026-02-15,0.0,Fully Paid
+200068,106,Summit Municipal Water,2026-02,Dental,1800.0,1800.0,2026-02-15,0.0,Fully Paid
+200069,107,Valley View Public Library,2026-02,Dental,975.0,975.0,2026-02-15,0.0,Fully Paid
+200070,107,Valley View Public Library,2026-02,Vision,325.0,325.0,2026-02-15,0.0,Fully Paid
+200071,101,Maple Valley School District,2026-03,Dental,3060.0,3060.0,2026-03-15,0.0,Fully Paid
+200072,101,Maple Valley School District,2026-03,Vision,1020.0,1020.0,2026-03-15,0.0,Fully Paid
+200073,101,Maple Valley School District,2026-03,Prescription,10200.0,10200.0,2026-03-15,0.0,Fully Paid
+200074,102,Pine Creek Township,2026-03,Dental,2190.0,2190.0,2026-03-15,0.0,Fully Paid
+200075,102,Pine Creek Township,2026-03,Vision,730.0,730.0,2026-03-15,0.0,Fully Paid
+200076,103,Oakridge Transit Authority,2026-03,Dental,3075.0,3075.0,2026-03-15,0.0,Fully Paid
+200077,103,Oakridge Transit Authority,2026-03,Vision,1025.0,1025.0,2026-03-15,0.0,Fully Paid
+200078,103,Oakridge Transit Authority,2026-03,Prescription,10250.0,10250.0,2026-03-15,0.0,Fully Paid
+200079,104,River Valley School District,2026-03,Vision,925.0,925.0,2026-03-15,0.0,Fully Paid
+200080,105,Blue Ridge Transit Consortium,2026-03,Dental,6205.75,6205.75,2026-03-15,0.0,Fully Paid
+200081,105,Blue Ridge Transit Consortium,2026-03,Vision,4243.61,4243.61,2026-03-15,0.0,Fully Paid
+200082,106,Summit Municipal Water,2026-03,Dental,1800.0,1800.0,2026-03-15,0.0,Fully Paid
+200083,107,Valley View Public Library,2026-03,Dental,975.0,975.0,2026-03-15,0.0,Fully Paid
+200084,107,Valley View Public Library,2026-03,Vision,325.0,325.0,2026-03-15,0.0,Fully Paid
+200085,101,Maple Valley School District,2026-04,Dental,3060.0,3060.0,2026-04-15,0.0,Fully Paid
+200086,101,Maple Valley School District,2026-04,Vision,1020.0,1020.0,2026-04-15,0.0,Fully Paid
+200087,101,Maple Valley School District,2026-04,Prescription,10200.0,10200.0,2026-04-15,0.0,Fully Paid
+200088,102,Pine Creek Township,2026-04,Dental,2190.0,2190.0,2026-04-15,0.0,Fully Paid
+200089,102,Pine Creek Township,2026-04,Vision,730.0,730.0,2026-04-15,0.0,Fully Paid
+200090,103,Oakridge Transit Authority,2026-04,Dental,3075.0,3075.0,2026-04-15,0.0,Fully Paid
+200091,103,Oakridge Transit Authority,2026-04,Vision,1025.0,1025.0,2026-04-15,0.0,Fully Paid
+200092,103,Oakridge Transit Authority,2026-04,Prescription,10250.0,10250.0,2026-04-15,0.0,Fully Paid
+200093,104,River Valley School District,2026-04,Vision,925.0,925.0,2026-04-15,0.0,Fully Paid
+200094,105,Blue Ridge Transit Consortium,2026-04,Dental,5673.99,5673.99,2026-04-15,0.0,Fully Paid
+200095,105,Blue Ridge Transit Consortium,2026-04,Vision,5568.67,5568.67,2026-04-15,0.0,Fully Paid
+200096,106,Summit Municipal Water,2026-04,Dental,1800.0,1800.0,2026-04-15,0.0,Fully Paid
+200097,107,Valley View Public Library,2026-04,Dental,975.0,975.0,2026-04-15,0.0,Fully Paid
+200098,107,Valley View Public Library,2026-04,Vision,325.0,325.0,2026-04-15,0.0,Fully Paid
+200099,101,Maple Valley School District,2026-05,Dental,3060.0,3060.0,2026-05-15,0.0,Fully Paid
+200100,101,Maple Valley School District,2026-05,Vision,1020.0,1020.0,2026-05-15,0.0,Fully Paid
+200101,101,Maple Valley School District,2026-05,Prescription,10200.0,10200.0,2026-05-15,0.0,Fully Paid
+200102,102,Pine Creek Township,2026-05,Dental,2190.0,2190.0,2026-05-15,0.0,Fully Paid
+200103,102,Pine Creek Township,2026-05,Vision,730.0,730.0,2026-05-15,0.0,Fully Paid
+200104,103,Oakridge Transit Authority,2026-05,Dental,3075.0,3075.0,2026-05-15,0.0,Fully Paid
+200105,103,Oakridge Transit Authority,2026-05,Vision,1025.0,1025.0,2026-05-15,0.0,Fully Paid
+200106,103,Oakridge Transit Authority,2026-05,Prescription,10250.0,10250.0,2026-05-15,0.0,Fully Paid
+200107,104,River Valley School District,2026-05,Vision,925.0,925.0,2026-05-15,0.0,Fully Paid
+200108,105,Blue Ridge Transit Consortium,2026-05,Dental,2652.46,2652.46,2026-05-15,0.0,Fully Paid
+200109,105,Blue Ridge Transit Consortium,2026-05,Vision,6052.16,6052.16,2026-05-15,0.0,Fully Paid
+200110,106,Summit Municipal Water,2026-05,Dental,1800.0,1800.0,2026-05-15,0.0,Fully Paid
+200111,107,Valley View Public Library,2026-05,Dental,975.0,975.0,2026-05-15,0.0,Fully Paid
+200112,107,Valley View Public Library,2026-05,Vision,325.0,325.0,2026-05-15,0.0,Fully Paid
+200113,101,Maple Valley School District,2026-06,Dental,3060.0,3060.0,2026-06-15,0.0,Fully Paid
+200114,101,Maple Valley School District,2026-06,Vision,1020.0,1020.0,2026-06-15,0.0,Fully Paid
+200115,101,Maple Valley School District,2026-06,Prescription,10200.0,10200.0,2026-06-15,0.0,Fully Paid
+200116,102,Pine Creek Township,2026-06,Dental,2190.0,2190.0,2026-06-15,0.0,Fully Paid
+200117,102,Pine Creek Township,2026-06,Vision,730.0,730.0,2026-06-15,0.0,Fully Paid
+200118,103,Oakridge Transit Authority,2026-06,Dental,3075.0,3075.0,2026-06-15,0.0,Fully Paid
+200119,103,Oakridge Transit Authority,2026-06,Vision,1025.0,1025.0,2026-06-15,0.0,Fully Paid
+200120,103,Oakridge Transit Authority,2026-06,Prescription,10250.0,10250.0,2026-06-15,0.0,Fully Paid
+200121,104,River Valley School District,2026-06,Vision,925.0,925.0,2026-06-15,0.0,Fully Paid
+200122,105,Blue Ridge Transit Consortium,2026-06,Dental,3986.0,3986.0,2026-06-15,0.0,Fully Paid
+200123,105,Blue Ridge Transit Consortium,2026-06,Vision,4216.56,4216.56,2026-06-15,0.0,Fully Paid
+200124,106,Summit Municipal Water,2026-06,Dental,1800.0,1800.0,2026-06-15,0.0,Fully Paid
+200125,107,Valley View Public Library,2026-06,Dental,975.0,975.0,2026-06-15,0.0,Fully Paid
+200126,107,Valley View Public Library,2026-06,Vision,325.0,325.0,2026-06-15,0.0,Fully Paid
+200127,101,Maple Valley School District,2026-07,Dental,3060.0,3060.0,2026-07-15,0.0,Fully Paid
+200128,101,Maple Valley School District,2026-07,Vision,1020.0,1020.0,2026-07-15,0.0,Fully Paid
+200129,101,Maple Valley School District,2026-07,Prescription,10200.0,10200.0,2026-07-15,0.0,Fully Paid
+200130,102,Pine Creek Township,2026-07,Dental,2190.0,2190.0,2026-07-15,0.0,Fully Paid
+200131,102,Pine Creek Township,2026-07,Vision,730.0,730.0,2026-07-15,0.0,Fully Paid
+200132,103,Oakridge Transit Authority,2026-07,Dental,3075.0,3075.0,2026-07-15,0.0,Fully Paid
+200133,103,Oakridge Transit Authority,2026-07,Vision,1025.0,1025.0,2026-07-15,0.0,Fully Paid
+200134,103,Oakridge Transit Authority,2026-07,Prescription,10250.0,10250.0,2026-07-15,0.0,Fully Paid
+200135,104,River Valley School District,2026-07,Vision,925.0,925.0,2026-07-15,0.0,Fully Paid
+200136,105,Blue Ridge Transit Consortium,2026-07,Dental,4383.82,4383.82,2026-07-15,0.0,Fully Paid
+200137,105,Blue Ridge Transit Consortium,2026-07,Vision,5736.84,5736.84,2026-07-15,0.0,Fully Paid
+200138,106,Summit Municipal Water,2026-07,Dental,1800.0,1800.0,2026-07-15,0.0,Fully Paid
+200139,107,Valley View Public Library,2026-07,Dental,975.0,0.0,,975.0,Delinquent
+200140,107,Valley View Public Library,2026-07,Vision,325.0,0.0,,325.0,Delinquent
+200141,101,Maple Valley School District,2026-08,Dental,3060.0,3060.0,2026-08-15,0.0,Fully Paid
+200142,101,Maple Valley School District,2026-08,Vision,1020.0,1020.0,2026-08-15,0.0,Fully Paid
+200143,101,Maple Valley School District,2026-08,Prescription,10200.0,10200.0,2026-08-15,0.0,Fully Paid
+200144,102,Pine Creek Township,2026-08,Dental,2190.0,2190.0,2026-08-15,0.0,Fully Paid
+200145,102,Pine Creek Township,2026-08,Vision,730.0,730.0,2026-08-15,0.0,Fully Paid
+200146,103,Oakridge Transit Authority,2026-08,Dental,3075.0,2767.5,2026-08-20,307.5,Underpaid
+200147,103,Oakridge Transit Authority,2026-08,Vision,1025.0,922.5,2026-08-20,102.5,Underpaid
+200148,103,Oakridge Transit Authority,2026-08,Prescription,10250.0,9225.0,2026-08-20,1025.0,Underpaid
+200149,104,River Valley School District,2026-08,Vision,925.0,925.0,2026-08-15,0.0,Fully Paid
+200150,105,Blue Ridge Transit Consortium,2026-08,Dental,5314.4,5314.4,2026-08-15,0.0,Fully Paid
+200151,105,Blue Ridge Transit Consortium,2026-08,Vision,3623.09,3623.09,2026-08-15,0.0,Fully Paid
+200152,106,Summit Municipal Water,2026-08,Dental,1800.0,1800.0,2026-08-15,0.0,Fully Paid
+200153,107,Valley View Public Library,2026-08,Dental,975.0,0.0,,975.0,Delinquent
+200154,107,Valley View Public Library,2026-08,Vision,325.0,0.0,,325.0,Delinquent
+200155,101,Maple Valley School District,2026-09,Dental,3060.0,3060.0,2026-09-15,0.0,Fully Paid
+200156,101,Maple Valley School District,2026-09,Vision,1020.0,1020.0,2026-09-15,0.0,Fully Paid
+200157,101,Maple Valley School District,2026-09,Prescription,10200.0,10200.0,2026-09-15,0.0,Fully Paid
+200158,102,Pine Creek Township,2026-09,Dental,2190.0,2190.0,2026-08-28,0.0,Advance
+200159,102,Pine Creek Township,2026-09,Vision,730.0,730.0,2026-08-28,0.0,Advance
+200160,103,Oakridge Transit Authority,2026-09,Dental,3075.0,3075.0,2026-09-15,0.0,Fully Paid
+200161,103,Oakridge Transit Authority,2026-09,Vision,1025.0,1025.0,2026-09-15,0.0,Fully Paid
+200162,103,Oakridge Transit Authority,2026-09,Prescription,10250.0,10250.0,2026-09-15,0.0,Fully Paid
+200163,104,River Valley School District,2026-09,Vision,925.0,925.0,2026-09-15,0.0,Fully Paid
+200164,105,Blue Ridge Transit Consortium,2026-09,Dental,5565.57,5565.57,2026-09-15,0.0,Fully Paid
+200165,105,Blue Ridge Transit Consortium,2026-09,Vision,4467.5,4467.5,2026-09-15,0.0,Fully Paid
+200166,106,Summit Municipal Water,2026-09,Dental,1800.0,1800.0,2026-09-15,0.0,Fully Paid
+200167,107,Valley View Public Library,2026-09,Dental,975.0,0.0,,975.0,Delinquent
+200168,107,Valley View Public Library,2026-09,Vision,325.0,0.0,,325.0,Delinquent

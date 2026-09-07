@@ -1,0 +1,183 @@
+Subscriber_ID,Group_ID,Last_Name,First_Name,Fake_SSN,Date_of_Birth,Status,Is_COBRA,COBRA_Sub_Type,COBRA_Elig_Date,COBRA_Elig_End_Date,Paid_To_Date,Coverage_Effective_Date,Gender,Billing_Tier_Code,Billing_Tier_Label
+10001,101,Garcia,Jennifer,999-41-8281,1974-12-18,Active,N,,,,2026-09-30,2020-10-02,F,3,Single Coverage
+10002,101,Garcia,Michael,999-12-5461,1978-02-23,Active,N,,,,2026-09-30,2021-07-18,M,1,Family Coverage
+10003,101,Rodriguez,John,999-31-4798,1994-06-25,Active,N,,,,2026-09-30,2021-12-20,M,1,Family Coverage
+10004,101,Moore,Charles,999-82-1577,1974-06-27,Active,N,,,,2026-09-30,2020-10-02,M,1,Family Coverage
+10005,101,Jones,Jennifer,999-38-9723,1961-01-15,Active,N,,,,2026-09-30,2021-01-20,F,1,Family Coverage
+10006,101,Davis,Jennifer,999-88-8793,1981-02-24,Active,N,,,,2026-09-30,2021-01-11,F,1,Family Coverage
+10007,101,White,David,999-87-2209,1996-10-24,Active,N,,,,2026-09-30,2023-05-15,M,3,Single Coverage
+10008,101,Martinez,David,999-77-4501,1975-06-19,Active,N,,,,2026-09-30,2021-04-01,M,3,Single Coverage
+10009,101,Williams,Jennifer,999-80-6570,1999-02-28,Active,N,,,,2026-09-30,2020-12-27,F,3,Single Coverage
+10010,101,Davis,Michael,999-66-2646,1983-05-14,Active,Y,Dependent,2026-04-16,2027-10-08,2026-09-30,2021-04-08,M,1,Family Coverage
+10011,101,Johnson,Patricia,999-89-2868,1968-05-26,Active,N,,,,2026-09-30,2020-05-30,F,3,Single Coverage
+10012,101,Martinez,James,999-81-2550,1991-04-04,Active,N,,,,2026-09-30,2021-05-30,M,1,Family Coverage
+10013,101,Anderson,John,999-63-8828,1971-04-22,Active,N,,,,2026-09-30,2022-03-28,M,1,Family Coverage
+10014,101,Hernandez,James,999-83-2665,1976-12-28,Active,N,,,,2026-09-30,2021-01-21,M,2,Member & Spouse
+10015,101,Davis,Barbara,999-97-3076,1999-12-29,Active,N,,,,2026-09-30,2023-09-15,F,3,Single Coverage
+10016,101,Wilson,Jennifer,999-75-1485,1999-06-22,Active,N,,,,2026-09-30,2023-04-10,F,3,Single Coverage
+10017,101,Anderson,Patricia,999-19-9797,1999-10-01,Active,N,,,,2026-09-30,2020-08-27,F,3,Single Coverage
+10018,101,Moore,Sarah,999-53-8072,1960-10-03,Active,N,,,,2026-09-30,2020-11-09,F,1,Family Coverage
+10019,101,Martinez,Mary,999-50-8691,1992-11-03,Active,N,,,,2026-09-30,2021-01-11,F,1,Family Coverage
+10020,101,Smith,Patricia,999-79-7108,1978-11-16,Active,N,,,,2026-09-30,2023-03-11,F,1,Family Coverage
+10021,101,Anderson,Mary,999-53-9732,1966-03-03,Active,N,,,,2026-09-30,2021-02-15,F,1,Family Coverage
+10022,101,White,John,999-43-5302,1978-12-11,Active,N,,,,2026-09-30,2022-07-17,M,1,Family Coverage
+10023,101,Garcia,Thomas,999-69-4811,1990-12-18,Active,N,,,,2026-09-30,2020-10-14,M,1,Family Coverage
+10024,101,Thomas,Sarah,999-19-8635,1960-01-29,Active,N,,,,2026-09-30,2020-01-03,F,2,Member & Spouse
+10025,101,Garcia,Thomas,999-92-8113,1987-07-24,Active,Y,Spouse,2026-02-18,2027-08-12,2026-09-30,2020-08-20,M,3,Single Coverage
+10026,101,Jones,Susan,999-93-9014,1991-04-07,Active,N,,,,2026-09-30,2023-10-26,F,1,Family Coverage
+10027,101,Moore,Michael,999-67-3803,1977-09-03,Active,N,,,,2026-09-30,2023-07-08,M,3,Single Coverage
+10028,101,Wilson,Charles,999-94-9933,1978-02-02,Active,N,,,,2026-09-30,2022-12-20,M,1,Family Coverage
+10029,101,Brown,Michael,999-75-7133,1970-06-04,Active,N,,,,2026-09-30,2023-02-08,M,1,Family Coverage
+10030,101,Thompson,John,999-96-1210,1967-10-28,Active,N,,,,2026-09-30,2021-10-02,M,3,Single Coverage
+10031,101,Johnson,William,999-61-2192,1964-10-10,Active,N,,,,2026-09-30,2022-08-22,M,1,Family Coverage
+10032,101,Hernandez,James,999-49-4689,1969-06-15,Active,Y,Employee,2026-01-04,2027-06-28,2026-09-30,2023-07-09,M,2,Member & Spouse
+10033,101,Brown,Mary,999-85-8279,1998-02-16,Active,N,,,,2026-09-30,2024-01-23,F,3,Single Coverage
+10034,101,Jackson,Jennifer,999-96-3844,1996-01-09,Active,N,,,,2026-09-30,2021-11-26,F,2,Member & Spouse
+10035,102,Jackson,David,999-53-9353,1964-10-07,Active,Y,Employee,2026-03-12,2027-09-03,2026-09-30,2022-11-05,M,1,Family Coverage
+10036,102,Thomas,Robert,999-19-8754,1970-01-13,Active,N,,,,2026-09-30,2022-06-26,M,3,Single Coverage
+10037,102,Hernandez,Patricia,999-30-6162,1978-09-10,Active,N,,,,2026-09-30,2020-05-10,F,1,Family Coverage
+10038,102,Jones,Linda,999-97-2576,1988-01-02,Active,N,,,,2026-09-30,2022-11-01,F,1,Family Coverage
+10039,102,Thomas,Robert,999-49-9731,1964-05-25,Active,N,,,,2026-09-30,2021-01-21,M,1,Family Coverage
+10040,102,Miller,Patricia,999-61-9507,1979-12-07,Active,N,,,,2026-09-30,2024-01-24,F,4,Single w/ 1 Dependent
+10041,102,Thompson,Elizabeth,999-65-1095,1996-08-05,Active,N,,,,2026-09-30,2022-03-05,F,2,Member & Spouse
+10042,102,Garcia,Susan,999-80-3001,1969-07-12,Active,Y,Employee,2026-01-11,2027-07-05,2026-09-30,2023-03-01,F,1,Family Coverage
+10043,102,White,Joseph,999-44-4360,1978-07-26,Active,N,,,,2026-09-30,2020-07-24,M,1,Family Coverage
+10044,102,Johnson,Jennifer,999-63-6231,1990-09-15,Active,N,,,,2026-09-30,2020-06-01,F,1,Family Coverage
+10045,102,Martin,James,999-29-9733,1973-01-05,Active,N,,,,2026-09-30,2021-07-27,M,2,Member & Spouse
+10046,102,Martin,Sarah,999-81-8243,1963-10-06,Active,N,,,,2026-09-30,2021-02-04,F,3,Single Coverage
+10047,102,Thompson,Elizabeth,999-33-6033,1979-08-27,Active,N,,,,2026-09-30,2020-06-27,F,1,Family Coverage
+10048,102,Johnson,William,999-35-7780,1971-03-02,Active,N,,,,2026-09-30,2020-10-20,M,2,Member & Spouse
+10049,102,Martinez,William,999-29-1043,1984-06-10,Active,N,,,,2026-09-30,2022-05-28,M,1,Family Coverage
+10050,102,Rodriguez,Thomas,999-86-7334,1987-03-01,Active,N,,,,2026-09-30,2023-02-18,M,4,Single w/ 1 Dependent
+10051,102,Taylor,Linda,999-57-2611,1969-03-22,Active,N,,,,2026-09-30,2021-06-25,F,2,Member & Spouse
+10052,102,Wilson,Susan,999-67-6821,1977-01-19,Active,N,,,,2026-09-30,2021-01-22,F,1,Family Coverage
+10053,102,Thompson,Jennifer,999-43-2911,1984-04-09,Active,N,,,,2026-09-30,2021-12-30,F,2,Member & Spouse
+10054,102,Thompson,Karen,999-38-7410,1964-11-09,Active,N,,,,2026-09-30,2022-02-17,F,2,Member & Spouse
+10055,102,Anderson,Mary,999-88-8866,1978-04-22,Active,N,,,,2026-09-30,2021-01-04,F,1,Family Coverage
+10056,102,White,Joseph,999-23-8919,1994-02-11,Active,Y,Employee,2026-02-28,2027-08-22,2026-09-30,2022-07-25,M,2,Member & Spouse
+10057,103,Anderson,Michael,999-54-9799,1985-09-21,Active,N,,,,2026-09-30,2021-09-11,M,3,Single Coverage
+10058,103,Jackson,Charles,999-33-4998,1991-09-13,Active,N,,,,2026-09-30,2021-02-13,M,2,Member & Spouse
+10059,103,Taylor,Jennifer,999-18-8209,1968-01-05,Active,N,,,,2026-09-30,2020-08-22,F,1,Family Coverage
+10060,103,Martin,James,999-93-7525,1978-03-12,Active,N,,,,2026-09-30,2023-07-01,M,1,Family Coverage
+10061,103,Garcia,James,999-96-9788,1998-09-06,Active,N,,,,2026-09-30,2023-10-31,M,3,Single Coverage
+10062,103,Garcia,Richard,999-36-4468,1979-09-05,Active,Y,Dependent,2026-05-03,2027-10-25,2026-09-30,2022-01-24,M,1,Family Coverage
+10063,103,Rodriguez,Patricia,999-61-8477,1974-02-02,Active,N,,,,2026-09-30,2020-07-21,F,1,Family Coverage
+10064,103,Wilson,Robert,999-99-1703,1977-07-08,Active,N,,,,2026-09-30,2023-01-31,M,1,Family Coverage
+10065,103,Williams,Michael,999-73-2383,1987-02-14,Active,N,,,,2026-09-30,2022-04-15,M,1,Family Coverage
+10066,103,Rodriguez,James,999-12-6537,1992-04-02,Active,N,,,,2026-09-30,2020-07-18,M,1,Family Coverage
+10067,103,Rodriguez,William,999-41-1044,1973-07-11,Active,N,,,,2026-09-30,2020-10-26,M,2,Member & Spouse
+10068,103,Brown,Joseph,999-16-3162,1989-02-21,Active,N,,,,2026-09-30,2021-03-13,M,1,Family Coverage
+10069,103,Jones,Sarah,999-91-8593,1985-06-10,Active,N,,,,2026-09-30,2023-10-29,F,1,Family Coverage
+10070,103,Davis,Patricia,999-60-5794,1960-03-14,Active,N,,,,2026-09-30,2023-04-27,F,1,Family Coverage
+10071,103,Johnson,James,999-51-3866,1976-04-19,Active,N,,,,2026-09-30,2021-04-22,M,1,Family Coverage
+10072,103,Brown,William,999-41-6585,1998-07-16,Active,N,,,,2026-09-30,2020-07-02,M,3,Single Coverage
+10073,103,Thomas,Michael,999-10-2611,1987-11-22,Active,N,,,,2026-09-30,2022-12-21,M,4,Single w/ 1 Dependent
+10074,103,Smith,Karen,999-90-3069,1992-04-15,Active,N,,,,2026-09-30,2020-06-23,F,3,Single Coverage
+10075,103,Jones,James,999-84-5701,1960-07-09,Active,N,,,,2026-09-30,2023-01-04,M,2,Member & Spouse
+10076,103,Davis,Jessica,999-11-5938,2000-01-20,Active,N,,,,2026-09-30,2021-03-21,F,3,Single Coverage
+10077,103,Martin,Patricia,999-72-1033,1984-07-31,Active,Y,Dependent,2026-02-15,2027-08-09,2026-09-30,2023-03-22,F,1,Family Coverage
+10078,103,White,Richard,999-44-9257,2000-04-10,Active,N,,,,2026-09-30,2021-12-29,M,3,Single Coverage
+10079,103,Martin,Charles,999-76-2953,1993-05-16,Active,N,,,,2026-09-30,2022-08-10,M,1,Family Coverage
+10080,103,Rodriguez,David,999-15-6058,1970-12-06,Active,N,,,,2026-09-30,2021-12-09,M,1,Family Coverage
+10081,103,Rodriguez,Michael,999-33-2895,1995-02-24,Active,N,,,,2026-09-30,2021-02-27,M,1,Family Coverage
+10082,103,Williams,Mary,999-83-6206,1978-02-16,Active,N,,,,2026-09-30,2020-07-26,F,1,Family Coverage
+10083,103,Miller,Patricia,999-21-2264,1988-11-21,Active,N,,,,2026-09-30,2020-03-26,F,2,Member & Spouse
+10084,103,Martin,John,999-73-3766,1995-02-18,Active,N,,,,2026-09-30,2020-05-30,M,1,Family Coverage
+10085,103,Miller,Joseph,999-46-3973,1979-09-25,Active,N,,,,2026-09-30,2022-06-03,M,2,Member & Spouse
+10086,103,Miller,Barbara,999-59-5176,1968-07-06,Active,N,,,,2026-09-30,2021-03-04,F,1,Family Coverage
+10087,103,Martinez,Robert,999-59-1773,1974-05-23,Active,N,,,,2026-09-30,2021-02-22,M,1,Family Coverage
+10088,104,Hernandez,John,999-81-5972,1965-11-16,Active,N,,,,2026-09-30,2021-03-30,M,1,Family Coverage
+10089,104,Smith,John,999-69-6320,1963-11-07,Active,N,,,,2026-09-30,2021-05-27,M,1,Family Coverage
+10090,104,Davis,Patricia,999-66-3899,1961-11-11,Active,N,,,,2026-09-30,2020-08-17,F,3,Single Coverage
+10091,104,Thompson,Mary,999-86-5993,1991-08-12,Active,N,,,,2026-09-30,2021-04-04,F,1,Family Coverage
+10092,104,Wilson,David,999-58-2601,1964-12-19,Active,N,,,,2026-09-30,2022-04-22,M,2,Member & Spouse
+10093,104,White,Robert,999-92-5014,1964-04-15,Active,N,,,,2026-09-30,2021-03-25,M,2,Member & Spouse
+10094,104,Martin,Mary,999-61-5851,1969-02-07,Active,N,,,,2026-09-30,2023-08-13,F,1,Family Coverage
+10095,104,Johnson,Sarah,999-76-5456,1974-09-13,Active,N,,,,2026-09-30,2023-04-01,F,1,Family Coverage
+10096,104,White,Jessica,999-73-3874,1971-11-28,Active,N,,,,2026-09-30,2022-09-28,F,2,Member & Spouse
+10097,104,Davis,Mary,999-29-5000,1975-02-25,Active,N,,,,2026-09-30,2024-01-01,F,1,Family Coverage
+10098,104,Jones,Jessica,999-47-9183,1965-05-15,Active,N,,,,2026-09-30,2023-06-09,F,1,Family Coverage
+10099,104,Davis,Jessica,999-73-5117,1982-09-20,Active,N,,,,2026-09-30,2021-09-28,F,1,Family Coverage
+10100,104,Martinez,Thomas,999-97-4863,1960-07-01,Active,Y,Dependent,2026-02-03,2027-07-28,2026-09-30,2020-10-14,M,2,Member & Spouse
+10101,104,Martin,David,999-22-2631,1977-09-30,Active,N,,,,2026-09-30,2023-02-25,M,3,Single Coverage
+10102,104,Williams,Susan,999-79-2687,1989-03-01,Active,N,,,,2026-09-30,2021-04-09,F,2,Member & Spouse
+10103,104,Hernandez,James,999-49-2433,1975-10-04,Active,N,,,,2026-09-30,2022-02-04,M,2,Member & Spouse
+10104,104,White,Susan,999-39-2268,1978-05-13,Active,N,,,,2026-09-30,2022-09-23,F,1,Family Coverage
+10105,104,Thompson,David,999-68-3217,1987-08-27,Active,Y,Employee,2026-03-07,2027-08-29,2026-09-30,2021-03-07,M,1,Family Coverage
+10106,104,Garcia,Thomas,999-13-6630,1987-05-20,Active,N,,,,2026-09-30,2023-04-18,M,1,Family Coverage
+10107,104,Davis,Linda,999-42-9634,1961-06-10,Active,N,,,,2026-09-30,2023-09-15,F,4,Single w/ 1 Dependent
+10108,104,Moore,Mary,999-29-3442,1996-10-26,Active,Y,Dependent,2026-05-19,2027-11-10,2026-09-30,2022-08-08,F,4,Single w/ 1 Dependent
+10109,104,Davis,John,999-96-4123,1960-04-03,Active,N,,,,2026-09-30,2022-10-04,M,4,Single w/ 1 Dependent
+10110,104,Davis,David,999-49-3392,1999-08-29,Active,N,,,,2026-09-30,2023-05-01,M,3,Single Coverage
+10111,104,Williams,Robert,999-47-1757,1996-08-07,Active,N,,,,2026-09-30,2023-03-30,M,1,Family Coverage
+10112,104,White,Charles,999-78-7829,1973-05-30,Active,N,,,,2026-09-30,2023-02-16,M,1,Family Coverage
+10113,104,Martin,Susan,999-35-4012,1981-12-29,Active,N,,,,2026-09-30,2023-09-29,F,1,Family Coverage
+10114,104,Miller,John,999-68-5512,1994-06-28,Active,N,,,,2026-09-30,2021-03-26,M,4,Single w/ 1 Dependent
+10115,104,Thomas,Michael,999-10-2131,1991-11-30,Active,N,,,,2026-09-30,2021-02-23,M,1,Family Coverage
+10116,105,Davis,John,999-83-6729,1984-05-13,Active,N,,,,2026-09-30,2020-12-08,M,1,Family Coverage
+10117,105,Smith,Elizabeth,999-15-6744,1998-07-07,Active,N,,,,2026-09-30,2021-11-20,F,3,Single Coverage
+10118,105,White,Patricia,999-41-7883,1984-02-15,Active,N,,,,2026-09-30,2020-07-17,F,1,Family Coverage
+10119,105,Martin,Mary,999-64-1830,1977-06-22,Active,N,,,,2026-09-30,2022-06-18,F,1,Family Coverage
+10120,105,Moore,Jessica,999-81-3605,1979-09-29,Active,N,,,,2026-09-30,2023-04-11,F,1,Family Coverage
+10121,105,Johnson,Susan,999-32-3713,1985-06-14,Active,N,,,,2026-09-30,2021-11-05,F,1,Family Coverage
+10122,105,White,Barbara,999-30-7274,1965-07-02,Active,N,,,,2026-09-30,2023-04-02,F,4,Single w/ 1 Dependent
+10123,105,Martinez,Mary,999-90-3350,1991-09-15,Active,N,,,,2026-09-30,2022-04-13,F,1,Family Coverage
+10124,105,Martin,Jennifer,999-94-7557,1981-03-13,Active,N,,,,2026-09-30,2022-09-01,F,1,Family Coverage
+10125,105,Martin,William,999-56-6030,1979-10-24,Active,N,,,,2026-09-30,2021-12-12,M,2,Member & Spouse
+10126,105,Wilson,Linda,999-42-3695,1996-07-13,Active,Y,Employee,2026-05-24,2027-11-15,2026-09-30,2021-11-02,F,4,Single w/ 1 Dependent
+10127,105,Martinez,Sarah,999-50-7285,1978-04-12,Active,N,,,,2026-09-30,2021-05-11,F,1,Family Coverage
+10128,105,Hernandez,Jennifer,999-71-2820,1970-01-01,Active,N,,,,2026-09-30,2021-08-12,F,1,Family Coverage
+10129,105,Hernandez,Jennifer,999-14-2917,1962-01-31,Active,N,,,,2026-09-30,2022-10-29,F,1,Family Coverage
+10130,105,Brown,Jessica,999-82-2339,1965-04-10,Active,N,,,,2026-09-30,2020-07-14,F,3,Single Coverage
+10131,105,Hernandez,Charles,999-44-5858,1965-12-17,Active,Y,Employee,2026-04-11,2027-10-03,2026-09-30,2022-08-14,M,1,Family Coverage
+10132,105,Jackson,Joseph,999-98-8722,2000-06-19,Active,N,,,,2026-09-30,2022-09-01,M,3,Single Coverage
+10133,105,Williams,John,999-64-5082,1969-09-30,Active,Y,Spouse,2026-02-15,2027-08-09,2026-09-30,2023-06-16,M,1,Family Coverage
+10134,105,Wilson,James,999-75-7871,1979-07-15,Active,N,,,,2026-09-30,2022-04-28,M,1,Family Coverage
+10135,105,Williams,John,999-36-5511,1983-12-14,Active,N,,,,2026-09-30,2022-01-13,M,4,Single w/ 1 Dependent
+10136,105,Brown,Patricia,999-41-4614,1968-08-06,Active,N,,,,2026-09-30,2022-03-15,F,3,Single Coverage
+10137,105,Taylor,Elizabeth,999-58-2043,1986-04-29,Active,N,,,,2026-09-30,2022-12-05,F,4,Single w/ 1 Dependent
+10138,105,Miller,Karen,999-99-4246,1973-05-17,Active,N,,,,2026-09-30,2023-12-10,F,1,Family Coverage
+10139,105,Anderson,Jennifer,999-86-4858,1988-08-08,Active,N,,,,2026-09-30,2020-08-14,F,1,Family Coverage
+10140,105,Hernandez,Elizabeth,999-74-5164,1961-11-08,Active,N,,,,2026-09-30,2020-02-01,F,1,Family Coverage
+10141,105,Moore,Joseph,999-80-7525,1995-11-18,Active,N,,,,2026-09-30,2022-12-17,M,1,Family Coverage
+10142,105,Davis,Barbara,999-89-9231,1985-06-15,Active,N,,,,2026-09-30,2020-12-15,F,1,Family Coverage
+10143,105,Miller,Robert,999-65-6192,1982-04-06,Active,N,,,,2026-09-30,2021-12-02,M,4,Single w/ 1 Dependent
+10144,105,Jackson,Charles,999-13-6717,1980-02-18,Active,N,,,,2026-09-30,2021-06-12,M,1,Family Coverage
+10145,105,Martinez,Susan,999-19-1402,1966-10-18,Active,N,,,,2026-09-30,2022-04-14,F,1,Family Coverage
+10146,105,White,Patricia,999-61-3251,2000-06-16,Active,N,,,,2026-09-30,2021-01-26,F,3,Single Coverage
+10147,105,Thomas,Susan,999-36-2253,1989-07-29,Active,N,,,,2026-09-30,2020-12-28,F,1,Family Coverage
+10148,105,Williams,Joseph,999-57-2248,1989-07-01,Active,N,,,,2026-09-30,2021-02-16,M,2,Member & Spouse
+10149,105,Wilson,Karen,999-39-8473,1975-04-17,Active,N,,,,2026-09-30,2020-12-15,F,1,Family Coverage
+10150,105,Smith,David,999-67-4524,1993-03-24,Active,N,,,,2026-09-30,2021-09-25,M,3,Single Coverage
+10151,106,Jackson,Linda,999-54-3338,2000-03-22,Active,Y,Spouse,2026-03-01,2027-08-23,2026-09-30,2023-08-06,F,3,Single Coverage
+10152,106,Williams,Sarah,999-51-2368,1989-04-30,Active,N,,,,2026-09-30,2022-05-01,F,2,Member & Spouse
+10153,106,Wilson,James,999-20-3678,1984-03-26,Active,N,,,,2026-09-30,2021-01-14,M,2,Member & Spouse
+10154,106,White,Patricia,999-36-5881,1973-04-01,Active,N,,,,2026-09-30,2023-07-28,F,1,Family Coverage
+10155,106,Miller,Jennifer,999-30-5126,1984-12-10,Active,N,,,,2026-09-30,2022-05-11,F,1,Family Coverage
+10156,106,Moore,David,999-97-9902,1965-05-05,Active,N,,,,2026-09-30,2021-08-03,M,1,Family Coverage
+10157,106,Davis,David,999-72-4870,1978-03-07,Active,Y,Spouse,2026-03-01,2027-08-23,2026-09-30,2022-02-04,M,3,Single Coverage
+10158,106,White,Robert,999-72-3735,1985-12-30,Active,N,,,,2026-09-30,2023-05-08,M,1,Family Coverage
+10159,106,Smith,Jessica,999-53-1670,1967-08-18,Active,N,,,,2026-09-30,2020-11-15,F,3,Single Coverage
+10160,106,Davis,James,999-13-3050,1976-02-07,Active,N,,,,2026-09-30,2022-02-01,M,2,Member & Spouse
+10161,106,Jackson,Barbara,999-88-5086,1978-10-27,Active,N,,,,2026-09-30,2020-05-11,F,1,Family Coverage
+10162,106,Johnson,John,999-31-3057,1970-04-12,Active,N,,,,2026-09-30,2021-05-17,M,3,Single Coverage
+10163,106,Taylor,Robert,999-48-9779,1996-12-19,Active,N,,,,2026-09-30,2022-12-10,M,1,Family Coverage
+10164,106,Martinez,Jennifer,999-62-4081,1992-09-22,Active,N,,,,2026-09-30,2023-07-21,F,2,Member & Spouse
+10165,106,Smith,Joseph,999-23-2922,1962-09-22,Active,Y,Dependent,2026-03-09,2027-08-31,2026-09-30,2020-12-08,M,2,Member & Spouse
+10166,106,Moore,Karen,999-32-7073,1968-05-30,Active,N,,,,2026-09-30,2020-01-14,F,4,Single w/ 1 Dependent
+10167,106,Jones,John,999-63-8802,1960-02-11,Active,Y,Dependent,2026-05-30,2027-11-21,2026-09-30,2020-04-26,M,1,Family Coverage
+10168,106,Anderson,Elizabeth,999-99-1028,1988-05-14,Active,N,,,,2026-09-30,2022-06-11,F,1,Family Coverage
+10169,106,Taylor,John,999-63-6896,2000-03-24,Active,N,,,,2026-09-30,2023-08-07,M,3,Single Coverage
+10170,106,Rodriguez,Patricia,999-78-6819,1983-09-27,Active,N,,,,2026-09-30,2020-06-20,F,2,Member & Spouse
+10171,107,Garcia,Barbara,999-12-5063,1991-06-27,Terminated,N,,,,2026-06-30,2023-05-15,F,1,Family Coverage
+10172,107,Brown,Linda,999-34-5699,1977-05-08,Terminated,N,,,,2026-06-30,2022-07-23,F,1,Family Coverage
+10173,107,Garcia,Jennifer,999-64-7695,1999-11-23,Active,N,,,,2026-06-30,2020-01-06,F,3,Single Coverage
+10174,107,Thomas,Barbara,999-65-1375,1992-02-21,Active,N,,,,2026-06-30,2023-10-27,F,1,Family Coverage
+10175,107,Martin,Sarah,999-70-6135,1997-02-01,Active,N,,,,2026-06-30,2022-04-19,F,1,Family Coverage
+10176,107,Jones,John,999-40-5003,1985-12-14,Active,N,,,,2026-06-30,2023-01-28,M,1,Family Coverage
+10177,107,White,Susan,999-84-3230,1989-03-09,Active,N,,,,2026-06-30,2024-01-01,F,1,Family Coverage
+10178,107,Martinez,Susan,999-36-7254,2000-07-10,Active,N,,,,2026-06-30,2022-05-29,F,3,Single Coverage
+10179,107,Smith,Elizabeth,999-25-9332,1969-08-23,Active,N,,,,2026-06-30,2023-09-18,F,1,Family Coverage
+10180,107,Jackson,Joseph,999-76-8232,1968-10-02,Active,N,,,,2026-06-30,2020-10-27,M,1,Family Coverage
+10181,107,Wilson,Michael,999-46-2462,2000-11-12,Active,N,,,,2026-06-30,2023-03-21,M,3,Single Coverage
+10182,107,Johnson,Susan,999-12-3419,1987-09-19,Active,N,,,,2026-06-30,2022-08-12,F,1,Family Coverage
