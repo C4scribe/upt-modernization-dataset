@@ -38,6 +38,11 @@ The `ach-bank-statement.csv` file features realistic, messy bank-end transit str
 
 ---
 
+## Case Study Portfolio
+This dataset is a companion to the master case study. To read the full Product Owner roadmap, Gherkin user stories, and technical requirements analysis, visit my portfolio page:
+https://wakelessriverpress.com/case-study-enterprise-modernization/
+----
+
 ## How to Run the Data Generator
 
 To regenerate the dataset locally or modify the scaling factors (e.g., generating 10,000+ rows for high-volume database performance testing), ensure you have `pandas` installed and run:
@@ -45,7 +50,4 @@ To regenerate the dataset locally or modify the scaling factors (e.g., generatin
 ```bash
 python3 upt-data-generator.py
 
-----
 
-## Case Study Portfolio
-This dataset is a companion to the master case study. To read the full Product Owner roadmap, Gherkin user stories, and technical requirements analysis, visit my portfolio page:
